@@ -43,9 +43,9 @@
 <li>1x Arduino Uno</li>
 <li>1x Sensor de luminosidade (LDR)</li>
 <li>3x LEDs (verde, amarelo, vermelho)</li>
-<li>6x Resistores para os LEDs (220Ω)</li>
+<li>5x Resistores para os LEDs (220Ω)</li>
 <li>1x Buzzer</li>
-<li>1x Display LCD 16x2 (com interface paralela)</li>
+<li>1x Display LCD 16x2 </li>
 <li>1x Potenciômetro (para ajuste do contraste do LCD)</li>
 <li>Jumpers e Protoboard</li>
 </ul>
