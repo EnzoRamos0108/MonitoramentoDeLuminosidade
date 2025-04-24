@@ -43,7 +43,7 @@
 <li>1x Arduino Uno</li>
 <li>1x Sensor de luminosidade (LDR)</li>
 <li>3x LEDs (verde, amarelo, vermelho)</li>
-<li>3x Resistores para os LEDs (220Ω)</li>
+<li>6x Resistores para os LEDs (220Ω)</li>
 <li>1x Buzzer</li>
 <li>1x Display LCD 16x2 (com interface paralela)</li>
 <li>1x Potenciômetro (para ajuste do contraste do LCD)</li>
@@ -60,7 +60,7 @@
   <h2>🚀 Como Reproduzir</h2>
 <ol>
 <li>Clone ou baixe este repositório.</li>
-<li>Abra o arquivo <code>codigo.ino</code> na <strong>IDE do Arduino</strong>.</li>
+<li>Abra o arquivo <code>sensor_codigo.ino</code> na <strong>IDE do Arduino</strong>.</li>
 <li>Monte o circuito no <strong>Tinkercad</strong> ou fisicamente com os componentes listados.</li>
 <li>Faça upload do código para a placa Arduino Uno.</li>
 <li>Observe a animação de cavalo no LCD, a mensagem de boas-vindas e os alertas de luminosidade em tempo real.</li>
@@ -69,7 +69,7 @@
   <hr>
  
   <h2>🎬 Demonstração</h2>
-<p>📽️ Vídeo da implementação (até 3 minutos): <br>
+<p>📽️ Vídeo da implementação: <br>
   🔗 <a href="https://exemplo.com/seuvideo" target="_blank">Link para o vídeo explicativo</a></p>
  
   <p>📸 Simulação no Tinkercad: <br>
