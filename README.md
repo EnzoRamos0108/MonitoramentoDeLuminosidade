@@ -16,7 +16,7 @@
 <li>Avisar com LEDs (verde, amarelo e vermelho) dependendo da luz ambiente.</li>
 <li>Emitir alerta sonoro com buzzer em níveis críticos.</li>
 <li>Exibir os dados e mensagens no LCD 16x2, como a porcentagem de luminosidade. Esse é nosso <strong>diferencial!</strong>.</li>
-<li>Fazer uma <strong>animação de cavalo</strong> no início e exibir a mensagem “Cyber Horses”.</li>
+<li>Fazer uma <strong>animação de cavalo</strong> no início e exibir mensagens.</li>
 </ul>
  
   <hr>
