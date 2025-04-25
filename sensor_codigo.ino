@@ -120,11 +120,13 @@ void loop() {
     lcd.print("Alerta luz alta "); // Exibe "Alerta luz alta"
     digitalWrite(ledYellow, HIGH); // Acende o LED amarelo
     tone(buzzer, notaAlerta, 3000); // Emite um som por 3 segundos
+    delay(3000);//Intervalo de 3 segundos
   } else { // Se a luminosidade for maior que 60%, acende o LED vermelho e emite alerta
     lcd.setCursor(0, 1);
     lcd.print("Alerta luz alta "); // Exibe "Alerta luz alta"
     digitalWrite(ledRed, HIGH); // Acende o LED vermelho
     tone(buzzer, notaAlerta, 3000); // Emite um som por 3 segundos
+    delay(3000);//Intervalo de 3 segundos
   }
 
   delay(1000); // Aguarda 1 segundo antes de fazer nova leitura
