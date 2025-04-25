@@ -70,7 +70,7 @@
  
   <h2>🎬 Demonstração</h2>
 <p>📽️ Vídeo da implementação: <br>
-  🔗 <a href="https://exemplo.com/seuvideo" target="_blank">Link para o vídeo explicativo</a></p>
+  🔗 <a href="https://youtu.be/4OFOkI4_-yM" target="_blank">Link para o vídeo explicativo</a></p>
  
   <p>📸 Simulação no Tinkercad: <br>
   🔗 <a href="https://www.tinkercad.com/things/k4LHzFHOLUS-sensor-de-luminosidade-cp1?sharecode=Iv1HATuLXksxAsXpvUjJxfrMW1nhzDDG-hkY6SXjGIA" target="_blank">Link da simulação pública</a></p>
